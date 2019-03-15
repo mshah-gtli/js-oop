@@ -1,3 +1,7 @@
+//Encapsulation
+// JS is not a class based. A keyword is introduced. Just adds a layer.
+// We are going to have property and method
+
 const circle = {
     //properties
     radius: 1,

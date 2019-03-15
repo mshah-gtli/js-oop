@@ -54,4 +54,4 @@ console.log('strCircle', strCircle);
 console.log(Circle.call({}, 1));
 console.log(Circle.apply({}, [1])); // This is useful when you have to pass an argument as an array
 
-// Next: values
+// Next: prototype

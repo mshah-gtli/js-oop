@@ -29,3 +29,5 @@ function Circle1(radius){
 const circle1 = new Circle1(1);
 
 circle1.defaultLocation = 10;
+
+//Next: Polymorphism
