@@ -12,3 +12,5 @@ const circle = {
 };
 
 circle.draw();
+
+// Next: Factory Functions

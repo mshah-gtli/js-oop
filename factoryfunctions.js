@@ -13,3 +13,5 @@ function createCircle(radius){
 }
 let circle = createCircle(1);
 circle.draw();
+
+//Next: Constructors
